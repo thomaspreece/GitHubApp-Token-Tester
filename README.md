@@ -1,3 +1,7 @@
+This repository has been superseded by https://github.com/thomaspreece/GitHub-Token-Tester. Please use that repository instead.
+
+===============================================================================================================================
+
 # GitHub App Token Tester
 When you have a GitHub App installation token (starting with `ghs_`, see [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#githubs-token-formats)) then there isn't an endpoint that will tell you which permissions the token has. The purpose of this repo is to provide a tool that makes a set of requests to GitHub to test the exact permissions of the token. 
 
